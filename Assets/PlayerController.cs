@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
     private Animator m_animator;
     private SpriteRenderer m_sprite;
 
-    private bool m_bDead = false;
+    public bool m_bDead = false;
 
 	// Use this for initialization
 
